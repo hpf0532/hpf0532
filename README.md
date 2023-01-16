@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on QingDao.
+- 🔭 I’m currently working in QingDao.
 - 🌱 I’m currently learning JavaScript && Golang.
 - 👯 [go-webhook](https://github.com/hpf0532/go-webhook) 一个简单的webhook工具
 - 🤔 [corona](https://github.com/hpf0532/corona) 基于ansible-api实现的自动化部署工具
